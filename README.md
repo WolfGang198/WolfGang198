@@ -1,26 +1,24 @@
 <h1> Hi! My name is WolfGang. </h1>
 
-<div>
+<div align="center">
   <a href="https://github.com/WolfGang198">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=WolfGang198&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WolfGang198&layout=compact&langs_count=7&theme=react" />
-
-  <img align="center" width="148" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WolfGang198&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WolfGang198&layout=compact&langs_count=7&theme=dracula"/>
 </div>
- <br>
-<div  align="center"> 
   <div style="display: inline_block"><br>
-  <img align="center" alt="C++" height="30" width="40" src="https://user-images.githubusercontent.com/95577533/166736798-8184347a-fd58-4943-b50b-102850d287ff.png">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
- 
-    
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://user-images.githubusercontent.com/95577533/166748912-8ae5d14a-8178-4ab8-b08e-f02498d7f983.png">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://user-images.githubusercontent.com/95577533/166749232-356ce36f-8cf4-4c61-adc9-9790a97496fc.png">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/95577533/166749833-dcd093bf-6dff-479a-b618-5652b677e21a.gif">
 </div>
-  <a href="https://instagram.com/wolfthefurry13/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://linkedin.com/in/tiago-neves-ferreira-942891238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  ##
+  
+  <div> 
+  <a href="Https://Instagram.com/wolfthefurry13" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:spartanbr2000@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/tiago-neves-ferreira-942891238" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/WolfGang198/WolfGang198/blob/output/github-contribution-grid-snake.svg)
  
 </div>
- 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=WolfGang198&repo=WolfGang198&theme=react)](https://github.com/WolfGang198/WolfGang198)
