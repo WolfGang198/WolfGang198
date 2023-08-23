@@ -12,6 +12,7 @@
   <img align="center" alt="Rafa-Arduino" height="30" width="40" src="https://github.com/WolfGang198/WolfGang198/assets/95577533/fac5e1c9-0d31-470f-a0de-80d22bfc4841">
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://github.com/WolfGang198/WolfGang198/assets/95577533/0b528321-8d1e-4879-b5d4-ab4f83fb2cbc">
     <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://github.com/WolfGang198/WolfGang198/assets/95577533/f58104ec-4a71-4fcc-b28b-0cb9064db77a">
+    <img align="center" alt="Rafa-JS" height="30" width="40" src="https://github.com/WolfGang198/WolfGang198/assets/95577533/f58104ec-4a71-4fcc-b28b-0cb9064db77a">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/95577533/166749833-dcd093bf-6dff-479a-b618-5652b677e21a.gif">
 </div>
   
