@@ -9,7 +9,7 @@
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://user-images.githubusercontent.com/95577533/166748912-8ae5d14a-8178-4ab8-b08e-f02498d7f983.png">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://user-images.githubusercontent.com/95577533/166749232-356ce36f-8cf4-4c61-adc9-9790a97496fc.png">
-  <img align="center" alt="Rafa-Arduino" height="25" width="35" src="https://github.com/WolfGang198/WolfGang198/assets/95577533/0f409312-3f63-49f1-b1d5-664e9f2076be">
+  <img align="center" alt="Rafa-Arduino" height="25" width="35" src="https://github.com/WolfGang198/WolfGang198/assets/95577533/fac5e1c9-0d31-470f-a0de-80d22bfc4841">
     <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://github.com/WolfGang198/WolfGang198/assets/95577533/7fd8e4a7-921d-470a-b914-57036ced80b8">
     <img align="center" alt="Rafa-CSS" height="35" width="45" src="https://github.com/WolfGang198/WolfGang198/assets/95577533/c907165d-4f3e-4692-81c7-3abbdf5521df">
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/95577533/166749833-dcd093bf-6dff-479a-b618-5652b677e21a.gif">
